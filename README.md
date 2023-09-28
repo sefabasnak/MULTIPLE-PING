@@ -21,9 +21,9 @@ options:
 ```
 Sending a ping to a single IP or domain:
 ```bash
-python multiple-ping -u <IP or domain>
+python multiple-ping.py -u <IP or domain>
 ```
 Sending pings to a list of IP addresses or domains:
 ```bash
-python multiple-ping -l <file_path>
+python multiple-ping.py -l <file_path>
 ```
